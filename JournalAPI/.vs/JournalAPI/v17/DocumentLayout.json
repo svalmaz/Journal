@@ -3,12 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\db\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\db\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\configurations\\entryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\configurations\\entryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\migrations\\20241207135151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\migrations\\20241207135151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\entities\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\entities\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\entities\\entryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\entities\\entryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\entrygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\entrygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\entrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\entrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\interfaces\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\interfaces\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almaz\\AppData\\Local\\SourceServer\\1d58c013a8b9005d96c29c60cbf6988604162cd3c7797c3e7650e70e99dc7992\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\services\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\services\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\services\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\services\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\db\\journaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\db\\journaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almaz\\AppData\\Local\\SourceServer\\47efb5f23dcf2e58ac4e24f9d0c468191fcce53776ade8506b7026dd041dcf00\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\migrations\\journaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\migrations\\journaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\services\\hashing\\passwordhashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\services\\hashing\\passwordhashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almaz\\AppData\\Local\\SourceServer\\4892ae46fc267206a2c5acbcf911f036fd2762246a6baaddd0eea6f385eeb6e7\\src\\EFCore\\Storage\\ExecutionStrategyExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almaz\\AppData\\Local\\SourceServer\\40aa6c47e2b349445742b52d1075027b420ab57601c89399379ca49eac7da73d\\src\\EFCore\\Internal\\DbContextServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\interfaces\\hash\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\interfaces\\hash\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jornal\\journal\\journalapi\\journalapi\\journalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E4062D3-50FE-495A-9474-C850B4C40932}|JournalAPI\\JournalAPI.csproj|solutionrelative:journalapi\\journalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,34 +153,440 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Program.cs",
+              "RelativeToolTip": "JournalAPI\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:13:00.406Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "JournalAPI\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\User.cs",
-              "RelativeToolTip": "JournalAPI\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:05:57.053Z",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "JournalAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Dockerfile",
+              "RelativeToolTip": "JournalAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T15:10:25.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\DB\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "JournalAPI\\DB\\UserDbContext.cs",
-              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\DB\\UserDbContext.cs",
-              "RelativeToolTip": "JournalAPI\\DB\\UserDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "DocumentIndex": 4,
+              "Title": "ImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\ImageConfiguration.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Configurations\\ImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\ImageConfiguration.cs",
+              "RelativeToolTip": "JournalAPI\\Configurations\\ImageConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:04:11.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T15:29:42.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\EntryConfiguration.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Configurations\\EntryConfiguration.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\EntryConfiguration.cs",
+              "RelativeToolTip": "JournalAPI\\Configurations\\EntryConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:07:57.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\ImageEntity.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Entities\\ImageEntity.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\ImageEntity.cs",
+              "RelativeToolTip": "JournalAPI\\Entities\\ImageEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:51:56.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "JournalAPI\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:58:20.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241207135151_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Migrations\\20241207135151_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Migrations\\20241207135151_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Migrations\\20241207135151_InitialCreate.cs",
+              "RelativeToolTip": "JournalAPI\\Migrations\\20241207135151_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:53:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EntryDto.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\EntryDto.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EntryDto.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\EntryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:36:15.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Controllers\\EntriesController.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Controllers\\EntriesController.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Controllers\\EntriesController.cs",
+              "RelativeToolTip": "JournalAPI\\Controllers\\EntriesController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwJAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:43:19.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JournalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAwwGUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:13.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\EntryEntity.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Entities\\EntryEntity.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\EntryEntity.cs",
+              "RelativeToolTip": "JournalAPI\\Entities\\EntryEntity.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:43:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:29:31.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\UserDto.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:35:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntryGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EntryGetDto.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\EntryGetDto.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EntryGetDto.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\EntryGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:58:13.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "JournalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\appsettings.json",
+              "RelativeToolTip": "JournalAPI\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T13:14:57.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Services\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Email\\EmailService.cs",
+              "RelativeToolTip": "JournalAPI\\Services\\Email\\EmailService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:31:57.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\ResetPasswordDto.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:38:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EmailDto.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\EmailDto.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\EmailDto.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:30:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Interfaces\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Interfaces\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Interfaces\\Email\\IEmailService.cs",
+              "RelativeToolTip": "JournalAPI\\Interfaces\\Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:30:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\1d58c013a8b9005d96c29c60cbf6988604162cd3c7797c3e7650e70e99dc7992\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1d58c013a8b9005d96c29c60cbf6988604162cd3c7797c3e7650e70e99dc7992\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\1d58c013a8b9005d96c29c60cbf6988604162cd3c7797c3e7650e70e99dc7992\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1d58c013a8b9005d96c29c60cbf6988604162cd3c7797c3e7650e70e99dc7992\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AQIAAHIBAAAAAAAAAAAuwH0BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:43:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Services\\Auth\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\JwtProvider.cs",
+              "RelativeToolTip": "JournalAPI\\Services\\Auth\\JwtProvider.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:05:14.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Services\\Auth\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "JournalAPI\\Services\\Auth\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:09:17.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\UserService.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Services\\Auth\\UserService.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Auth\\UserService.cs",
+              "RelativeToolTip": "JournalAPI\\Services\\Auth\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:51:50.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JournalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\DB\\JournalDbContext.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\DB\\JournalDbContext.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\DB\\JournalDbContext.cs",
+              "RelativeToolTip": "JournalAPI\\DB\\JournalDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:54:48.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "JournalAPI\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:35:52.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg",
+              "RelativeDocumentMoniker": "JournalAPI\\Images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg",
+              "RelativeToolTip": "JournalAPI\\Images\\bd2e7444-0f56-41fd-9bda-33fcd4a1ab74.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-08T05:19:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg",
+              "RelativeDocumentMoniker": "JournalAPI\\Images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg",
+              "RelativeToolTip": "JournalAPI\\Images\\fdfee94a-e1f9-4f75-bbdf-96abe7d86972.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-08T04:27:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\47efb5f23dcf2e58ac4e24f9d0c468191fcce53776ade8506b7026dd041dcf00\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\47efb5f23dcf2e58ac4e24f9d0c468191fcce53776ade8506b7026dd041dcf00\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\47efb5f23dcf2e58ac4e24f9d0c468191fcce53776ade8506b7026dd041dcf00\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\47efb5f23dcf2e58ac4e24f9d0c468191fcce53776ade8506b7026dd041dcf00\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAvwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:30:51.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JournalDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Migrations\\JournalDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Migrations\\JournalDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Migrations\\JournalDbContextModelSnapshot.cs",
+              "RelativeToolTip": "JournalAPI\\Migrations\\JournalDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:53:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "JournalAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:56:20.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PasswordHashing.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Hashing\\PasswordHashing.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Services\\Hashing\\PasswordHashing.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Services\\Hashing\\PasswordHashing.cs",
+              "RelativeToolTip": "JournalAPI\\Services\\Hashing\\PasswordHashing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:53:30.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DbContextServices.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\40aa6c47e2b349445742b52d1075027b420ab57601c89399379ca49eac7da73d\\src\\EFCore\\Internal\\DbContextServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\40aa6c47e2b349445742b52d1075027b420ab57601c89399379ca49eac7da73d\\src\\EFCore\\Internal\\DbContextServices.cs",
+              "ToolTip": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\40aa6c47e2b349445742b52d1075027b420ab57601c89399379ca49eac7da73d\\src\\EFCore\\Internal\\DbContextServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\40aa6c47e2b349445742b52d1075027b420ab57601c89399379ca49eac7da73d\\src\\EFCore\\Internal\\DbContextServices.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAtwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:47:07.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExecutionStrategyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\4892ae46fc267206a2c5acbcf911f036fd2762246a6baaddd0eea6f385eeb6e7\\src\\EFCore\\Storage\\ExecutionStrategyExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\4892ae46fc267206a2c5acbcf911f036fd2762246a6baaddd0eea6f385eeb6e7\\src\\EFCore\\Storage\\ExecutionStrategyExtensions.cs",
+              "ToolTip": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\4892ae46fc267206a2c5acbcf911f036fd2762246a6baaddd0eea6f385eeb6e7\\src\\EFCore\\Storage\\ExecutionStrategyExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\4892ae46fc267206a2c5acbcf911f036fd2762246a6baaddd0eea6f385eeb6e7\\src\\EFCore\\Storage\\ExecutionStrategyExtensions.cs",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAtwIcBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:49:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "JournalAPI\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:42:28.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Interfaces\\Hash\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "JournalAPI\\Interfaces\\Hash\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\Interfaces\\Hash\\IPasswordHasher.cs",
+              "RelativeToolTip": "JournalAPI\\Interfaces\\Hash\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:55:21.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JournalAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\JournalAPI.csproj",
+              "RelativeDocumentMoniker": "JournalAPI\\JournalAPI.csproj",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Jornal\\Journal\\JournalAPI\\JournalAPI\\JournalAPI.csproj",
+              "RelativeToolTip": "JournalAPI\\JournalAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T12:57:30.735Z"
             }
           ]
         }
