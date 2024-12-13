@@ -141,7 +141,7 @@ Response
 ```
 #### Url Method: POST /api/upload
 
-```
+```json
 // Form-data
 {
   "image": "file" // binary data
@@ -157,13 +157,32 @@ Response
 ```json
 // Json Result 200 (successful)
 {
-   "message": "Entry deleted successfully."
+  "message": "Image uploaded successfully.",
 }
 
 // Json Result 400 (failed)
 {
   "status": "failed",
-  "message": "Error deleting entry."
+  
+}
+```
+#### Url Method: GET /api/{id}
+
+```
+api/yourId (example api/1)
+```
+Response
+
+```json
+// Json Result 200 (successful)
+{
+   "imageUrl": "string"
+}
+
+// Json Result 400 (failed)
+{
+  "status": "failed",
+
 }
 ```
 
