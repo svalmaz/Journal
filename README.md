@@ -1,6 +1,6 @@
 # Journal
 
-URL to dockerfile - https://github.com/svalmaz/Journal/blob/main/JournalAPI/JournalAPI/Dockerfile
+
 Send all request here ```http://svalmazchecks1-001-site1.ntempurl.com```
 
 ### 1. Backend for Journal app  (C#)
